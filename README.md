@@ -99,4 +99,4 @@ Languages: English (C1), German (A2)
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/muhammad-huzaifa-rizwan-b61352290/  
-Company: https://www.itsolp.com/
+
